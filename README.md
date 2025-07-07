@@ -1,4 +1,4 @@
-##Online Graph Generator — Free & Open Source
+## Online Graph Generator — Free & Open Source
 A Streamlit-powered web app to generate customizable, downloadable charts from CSV, Excel, PDF, or manual data — no coding required!
 Create Bar, Line, Pie, and Comparison charts with dynamic options like axis labels, multiple Y-columns, responsive design, and image export.
 
@@ -39,8 +39,8 @@ Language	Python 3.x
 
 ⚙️ Installation Guide
 # 1. Clone the Repository
-git clone https://github.com/your-repo/online-graph-generator.git
-cd online-graph-generator
+git clone https://github.com/Santoshh7/Online-Graph-Generator.git
+cd Online-Graph-Generator
 
 # 2. Create a Virtual Environment
 python -m venv venv
