@@ -4,11 +4,15 @@ A Streamlit-powered web app to generate customizable, downloadable charts from C
 Create Bar, Line, Pie, and Comparison charts with dynamic options like axis labels, multiple Y-columns, responsive design, and image export.
 
 🚀 Features Overview
+
 1️⃣ Smart Data Input
+
 📂 Upload files in .csv, .xlsx, or .pdf format
+
 ✏️ Manually paste or enter tabular data directly in the app
 
 2️⃣ Interactive Graph Generator
+
 📈 Generate the following chart types:
 
 Line Chart
