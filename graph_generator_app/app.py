@@ -6,7 +6,7 @@ import io
 import pdfplumber
 
 st.set_page_config(page_title="Graph Generator", layout="centered")
-st.title("📊 Graph Generator")
+st.title("AI-Driven Graph Generator")
 
 # --- Input Method ---
 input_method = st.radio("Select Input Method", ["Upload File", "Manual Entry"])
