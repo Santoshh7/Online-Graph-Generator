@@ -5,7 +5,7 @@ import numpy as np
 import io
 import pdfplumber
 
-st.set_page_config(page_title="Graph Generator", layout="centered")
+st.set_page_config(page_title="AI-Driven Graph Generator", layout="centered")
 st.title("AI-Driven Graph Generator")
 
 # --- Input Method ---
